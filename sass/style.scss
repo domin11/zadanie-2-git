@@ -3,7 +3,19 @@ body {
   background-color: #faffdb;
   font-family: 'Open Sans', sans-serif;
 }
+.container {
+  width: 100%;
+}
 p {
   padding: 5px;
   font-style: italic;
+}
+footer {
+  height: 40px;
+  background-color: brown;
+  color: white;
+  margin-bottom: -10px;
+  p {
+    font-style: normal;
+  }
 }
