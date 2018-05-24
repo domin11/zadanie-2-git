@@ -11,10 +11,9 @@ p {
   font-style: italic; }
 
 footer {
-  height: 40px;
+  text-align: center;
   background-color: brown;
-  color: white;
-  margin-bottom: -10px; }
+  color: white; }
   footer p {
     font-style: normal; }
 
