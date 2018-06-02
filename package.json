@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.24.4"
+  },
+  "dependencies": {
+    "autoprefixer-cli": "^1.0.0"
   }
 }
