@@ -13,6 +13,7 @@
     "browser-sync": "^2.24.4"
   },
   "dependencies": {
-    "autoprefixer-cli": "^1.0.0"
+    "autoprefixer-cli": "^1.0.0",
+    "nu-html-checker": "^0.1.0"
   }
 }
